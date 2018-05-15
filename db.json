@@ -370,5 +370,40 @@
       "restaurantId": "tasty-treats"
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "address": "Pontes",
+      "number": "45",
+      "optionalAddress": "",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 2,
+          "menuId": "zlasagna"
+        },
+        {
+          "quantity": 1,
+          "menuId": "greensandwich"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "address": "PUnta",
+      "number": "45",
+      "optionalAddress": "",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 2,
+          "menuId": "cup"
+        },
+        {
+          "quantity": 1,
+          "menuId": "straw"
+        }
+      ],
+      "id": 2
+    }
+  ]
 }
