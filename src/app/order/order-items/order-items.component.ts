@@ -7,8 +7,6 @@ import { CartItem } from '../../restaurant-detail/shopping-cart/cart-item.model'
 })
 export class OrderItemsComponent implements OnInit {
 
-  // AGORA EU TO NO BRANCH DEVELOP
-
   // tem que usar esse decorator quando vc quer acessar
   // essa propriedade de um component parent, com o @Input()
   // a propriedade fica acessivel em order (parent)
