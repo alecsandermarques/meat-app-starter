@@ -1,5 +1,7 @@
 # Meat - Angular App Starter
 
+## Projeto com NODE V8
+
 ## 1. Passos para começar
 
 ### Clonando o Repositório
