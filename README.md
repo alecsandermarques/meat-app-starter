@@ -1,6 +1,4 @@
-# Meat - Angular App Starter
-
-## Projeto com NODE V8
+# Meat - Angular App Starter - NODE V8
 
 ## 1. Passos para começar
 
