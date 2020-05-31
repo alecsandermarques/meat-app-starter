@@ -2,10 +2,6 @@
 
 ## 1. Passos para começar
 
-### Clonando o Repositório
-
-`git clone https://github.com/alecsandermarques/udemy-angular.git`
-
 ### Instalando as Dependências
 
 `npm install`
